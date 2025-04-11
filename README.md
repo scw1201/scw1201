@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Chengwei Shi and I'm currently a student, from Beihang University</p>
+<p align="left">My name is Chengwei Shi and I'm currently a student from Beihang University</p>
 
 ###
 
