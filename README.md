@@ -12,9 +12,7 @@
 
 <p align="left">
 ✨ Creating bugs since I touched my first neural net<br>
-📚 I'm currently learning how to generate realistic gaze and facial motions from audio, with a bit of style modeling magic<br>
-🎯 Goals: Build expressive, controllable talking face systems that actually understand eye movement dynamics<br>
-🎲 Fun fact: Sometimes my model blinks more naturally than I do 🫠
+
 </p>
 
 ###
@@ -37,14 +35,7 @@
 
 ###
 
-<h2 align="left">Things I'm building or playing with</h2>
 
-<ul align="left">
-  <li>👀 Eye motion style encoding from Euler angle sequences</li>
-  <li>🧠 Audio-to-gaze-pose generation with LSTM + Transformer hybrid models</li>
-  <li>🎨 Blender plugin for dynamic FLAME-based face modeling</li>
-  <li>📈 Style-aware loss functions and evaluation pipelines</li>
-</ul>
 
 ###
 
